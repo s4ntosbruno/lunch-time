@@ -12,11 +12,11 @@ aplicação que auxilia na escolha de restaurantes de forma democrática.
 	6.algumas rotas que não precisam de request: http://localhost:3333/place (do tipo GET) e http://localhost:3333/users (do tipo GET).<br>
 -O que vale destacar no código implementado?<br>
   Criei uma api rest expondo todos os dados que preciso pra uma aplicação mobile e web. 
-	Utilizei diversas bibliotas. 
-	A parte mobile e web ainda esta sendo desenvolvida.
-	Implementei um banco de dados sqLite.<br>
+	utilizei diversas bibliotas. 
+	a parte mobile e web ainda esta sendo desenvolvida.
+	implementei um banco de dados sqLite.<br>
 -O que poderia ser feito para melhorar o sistema?
-	Ter um usuário admnistrador que crie es reustarantes ou deixar que qualquer user adicione.
-	Ter informações adicionais dos reustarantes para ajudar na escolha.
+	ter um usuário admnistrador que crie es reustarantes ou deixar que qualquer user adicione.
+	ter informações adicionais dos reustarantes para ajudar na escolha.
 -Algo a mais que você tenha a dizer
-	O projeto me ajudou muito a aprender na pratica o desenvolvimento fullstack com javaScript.
+	o projeto me ajudou muito a aprender na pratica o desenvolvimento fullstack com javaScript.
